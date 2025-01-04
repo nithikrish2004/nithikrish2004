@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning **ReactJS** and building projects to strengthen my skills.  
 - 💞️ I’m looking to collaborate on exciting web development projects and open-source contributions.  
 - 📫 How to reach me:  
-  - Email: [your-email@example.com](mailto:your-email@example.com)  
-  - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
+  - Email: nithikrish2004@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/nithish-krishna-g-707430340/
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I started coding during my college years and found my passion in building dynamic and interactive web applications!  
 
